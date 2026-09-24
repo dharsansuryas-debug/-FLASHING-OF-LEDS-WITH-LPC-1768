@@ -96,6 +96,9 @@ int main()
 
 <img width="1536" height="767" alt="image" src="https://github.com/user-attachments/assets/95ab22a0-61c6-42a7-b3f6-8fae37945de4" />
 
+<img width="827" height="1282" alt="image" src="https://github.com/user-attachments/assets/d34318c5-2567-46dd-a73c-16cfd0bcd635" />
+
+
 
 # Result:
 Thus a LED is interfaced with ARM LPC 1768 Microprocessor and its blinking was verified sucessfully.
